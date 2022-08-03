@@ -11,7 +11,7 @@
 <img src="readme_screenshots/0_Main.jpg">
 
 ### Generic_CloseChromeTab Workflow
-<img src="readme_screenshots/11_Generic_CloseChromeTab.jpg">
+<img src="readme_screenshots/1_Generic_CloseChromeTab.jpg">
 
 ### Generic_FilterDataTable Workflow
 <img src="readme_screenshots/2_Generic_FilterDataTable.jpg">
