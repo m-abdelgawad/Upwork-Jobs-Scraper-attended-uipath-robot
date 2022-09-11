@@ -5,6 +5,12 @@
 
 ● Filter the extracted jobs based on the number of proposals, and payment verification status.
 
+## Certification
+
+This project was a milestone in my journey to study the RPA Developer With UiPath Nanodegree provided by Udacity.
+
+[![RPA Developer With UiPath Nanodegree by Udacity](RPA-Developer-With-UiPath-Nanodegree.png)](https://confirm.udacity.com/JVFFYTKPJ "RPA Developer With UiPath Nanodegree by Udacity")
+
 ## Workflows Screenshots
 
 ### Main Workflow
