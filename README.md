@@ -1,9 +1,7 @@
 # Upwork Jobs Scraper  || RPA Robot with UiPath
 
 ## Process Short Description
-● Extract freelancing jobs details from Upwork in one specific specialization.
-
-● Filter the extracted jobs based on the number of proposals, and payment verification status.
+An attended robot that takes input from the user that represents their specialization. After that, it opens Upwork, and logs into their account, using their credentials that are saved in a credential asset in the Orchestrator. then, it searches for the opening jobs in the required specialization, scrapes the results, and filter them based on the number of proposals, and payment verification status. Finally, send the filtered results by mail to the attended user.
 
 ## Certification
 
